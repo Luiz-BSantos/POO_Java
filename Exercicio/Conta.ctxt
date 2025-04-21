@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Conta
+comment1.params=horas\ salario\ dependentes
+comment1.target=Conta(double,\ double,\ int)
+comment2.params=
+comment2.target=double\ salarioBruto()
+comment3.params=
+comment3.target=double\ descontoINSS()
+comment4.params=
+comment4.target=double\ descontoIR()
+comment5.params=
+comment5.target=double\ salarioLiquido()
+numComments=6
